@@ -16,12 +16,12 @@ Este sistema permite gestionar proyectos de manera eficiente. Incluye funciones 
 ## Instalación
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/usuario/proyecto-laravel.git
+git clone https://github.com/RoValladares/practica-final.git
 ```
 
 2. Acceder al directorio del proyecto:
 ```bash
-cd proyecto-laravel
+cd practica-final
 ```
 
 3. Instalar las dependencias:
